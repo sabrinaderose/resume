@@ -1,101 +1,70 @@
-# 💼 Sabrina de Rose – IT Support | Network Engineering Student | Linux Enthusiast
+# 💼 Sabrina de Rose – IT Resume Repository
 
-📍 Covina, CA  
+📍 West Covina, CA  
 📧 faefluffkrist@gmail.com  
-🌐 [GitHub Profile](https://github.com/sabrinaderose)
+🔗 [GitHub Profile](https://github.com/sabrinaderose)
 
 ---
 
-## 🧾 Certifications & Education
+## 🎯 Summary
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-E60028?logo=comptia&logoColor=white&style=flat)
-![WGU Student](https://img.shields.io/badge/WGU-Student-205493?logo=graduation-cap&logoColor=white&style=flat)
-
----
-
-## 🧠 Summary
-
-I’m a CompTIA A+ certified IT Support Specialist with hands-on experience in Linux system administration, dual-boot setups, Windows recovery, and real-world troubleshooting. Currently pursuing a B.S. in Network Engineering & Security at Western Governors University, I’m seeking an entry-level remote or local role in **IT Support, Help Desk, or Junior SysAdmin**.  
-
-My GitHub portfolio showcases deep technical documentation, multi-boot OS configuration, and system hardening practices through real builds, breakages, and recoveries.
+Certified CompTIA A+ technician and Linux user with a strong foundation in network engineering and system administration. Currently pursuing a **B.S. in Network Engineering & Security (General Track)** at Western Governors University, expected **November 2026**. My projects emphasize practical implementations in Linux system hardening, DNS-level filtering, and network recovery. I aim to bridge the gap between academic knowledge and real-world application through home labs and thorough documentation.
 
 ---
 
-## 🛠️ Technical Skills
+## 📚 Education
 
-- **Operating Systems:** Arch Linux, KDE Plasma, Nobara Linux, Windows 10/11  
-- **Boot & Config Tools:** GRUB, rEFInd, Timeshift, BTRFS, systemd, Neovim  
-- **Security & Networking:** DNS setup, SSH, IP configuration, `rkhunter`, `lynis`, firewalld  
-- **Support & Admin:** Printer setup, user troubleshooting, dual-boot recovery, password resets  
-- **Remote Tools:** AnyDesk, RDP  
-- **Software Productivity:** Microsoft 365, Google Workspace  
-- **Version Control:** Git + GitHub (SSH integration)  
-- **Soft Skills:** Documentation, fast issue resolution, adaptability, clear communication
+**Bachelor of Science – Network Engineering & Security (General Track)**  
+*Western Governors University* • Remote  
+🗓 *Expected Graduation: November 2026*
+
+> Focus Areas:  
+> - Networking operations  
+> - Security management  
+> - Linux systems & scripting  
+> - Data & systems administration  
+> - Technical documentation  
+> - IT project planning & capstone implementation
 
 ---
 
-## 🎓 Education
+## 🧪 Technical Projects
 
-**Bachelor of Science in Network Engineering & Security**  
-*Western Governors University*  
-📅 Feb 2025 – Aug 2027 (Expected)
+| Project | Summary |
+|--------|---------|
+| 🔐 [SSH Hardening Lab](https://github.com/sabrinaderose/core-secure-ssh-hardening) | Secured Raspberry Pi SSH with key-based login, disabled password/root access, and recovered from sudo lockout using Fedora `chroot`. |
+| 📈 [System Monitoring Stack](https://github.com/sabrinaderose/core-system-monitoring-logs) | Deployed `rsyslog`, `logwatch`, and uptime monitoring; configured alerts and log forwarding for visibility. |
+| 🌐 [DNS Filtering with Pi-hole](https://github.com/sabrinaderose/ccna-dns-resolution-with-pihole) | Deployed Pi-hole with static IP, hardened DNS traffic via `iptables`, and validated filtering via port scanning. |
+| 💽 [Arch Linux Recovery Lab](https://github.com/sabrinaderose/arch-linux-recovery-from-usb-corruption) | Rebuilt corrupted Arch install from USB, restored GRUB bootloader, and recovered data partitions using live media. |
+
+---
+
+## 🧰 Technical Skills
+
+- **Operating Systems**: Linux (Raspberry Pi OS, Ubuntu, Arch), Windows  
+- **Tools**: `rsyslog`, `logwatch`, `iptables`, `systemctl`, `GRUB`, `Pi-hole`, `ufw`, `bash`  
+- **Version Control**: Git, GitHub  
+- **Core Areas**: Network troubleshooting, system hardening, DNS security, bootloader recovery, scripting, CLI usage
 
 ---
 
 ## 📜 Certifications
 
-- **CompTIA A+** *(Earned 2024)*  
-- **LPI Linux Essentials** *(Scheduled – June 2025)*
+| Certification | Year | Description |
+|---------------|------|-------------|
+| 🛠 **CompTIA A+** | 2025 | Validates foundational IT support skills: hardware, OS, troubleshooting, security, and networking. |
+| 🐧 **LPI Linux Essentials** | 2025 | Demonstrates Linux CLI competency: filesystems, permissions, command-line tools, and open-source concepts. |
 
 ---
 
-## 💻 Featured Projects (GitHub Portfolio)
+## 📂 Related Links
 
-### [`arch-linux-kde-daily-driver`](https://github.com/sabrinaderose/arch-linux-kde-daily-driver)
-> *Stable, secure, and visually themed Arch Linux install with KDE Plasma*
-
-- Manual installation using encrypted BTRFS + GRUB bootloader  
-- Multi-boot with Nobara + Windows via custom GRUB entries  
-- Neo-Y2K themed ricing with Kvantum, custom SDDM, retro sounds  
-- Security hardened with Timeshift, `rkhunter`, and `lynis`
+- [GitHub Profile](https://github.com/sabrinaderose)  
+- [core-secure-ssh-hardening](https://github.com/sabrinaderose/core-secure-ssh-hardening)  
+- [core-system-monitoring-logs](https://github.com/sabrinaderose/core-system-monitoring-logs)  
+- [ccna-dns-resolution-with-pihole](https://github.com/sabrinaderose/ccna-dns-resolution-with-pihole)  
+- [arch-linux-recovery-from-usb-corruption](https://github.com/sabrinaderose/arch-linux-recovery-from-usb-corruption)
 
 ---
 
-### [`windows-setup`](https://github.com/sabrinaderose/windows-setup)
-> *Clean Windows 11 dual-boot install with spyware removal and debloat tools*
-
-- Used PowerShell scripts to disable telemetry while retaining Windows Updates  
-- Rebuilt from Arch using Rufus after Ventoy/WoeUSB failures  
-- Includes optional privacy scripts and GUI-based debloat tools (Titus Tech)
-
----
-
-### [`arch-linux-hyprland-nvidia-failure`](https://github.com/sabrinaderose/arch-linux-hyprland-nvidia-failure)
-> *Post-mortem of a failed Hyprland + NVIDIA setup*
-
-- Logged Wayland/NVIDIA driver conflicts and boot failures  
-- Tested kernel parameters, fallback WMs, and initramfs fixes  
-- Demonstrates real troubleshooting and the ability to document from failure
-
----
-
-## 🧪 In Progress: `helpdesk-ticket-simulations`
-> *Hands-on IT support ticket handling*
-
-- Simulated tickets covering user login, printer configs, remote setup, etc.  
-- Modeled in Freshdesk-style workflow from submission to resolution  
-- Designed to show technical triage and communication skills
-
----
-
-## 📫 Let’s Connect
-
-Looking for someone who can handle real problems with calm and clarity?  
-Let’s talk.
-
-📧 **Email:** faefluffkrist@gmail.com  
-🌐 **GitHub:** [github.com/sabrinaderose](https://github.com/sabrinaderose)
-
----
-
-> _“Built from the ground up—documented, tested, and proudly shared.”_
+> 📌 This repository serves as a live resume showcasing technical competency through hands-on projects and documentation.
