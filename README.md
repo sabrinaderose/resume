@@ -1,7 +1,7 @@
 # 💼 Sabrina de Rose – IT Resume Repository
 
 📍 West Covina, CA  
-📧 faefluffkrist@gmail.com  
+📧 sabrinaderose@protonmail.com
 🔗 [GitHub Profile](https://github.com/sabrinaderose)
 
 ---
